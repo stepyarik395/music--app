@@ -2,8 +2,8 @@ import { Module } from "@nestjs/common";
 
 
 
-// @Module({
+@Module({
 
-// })
+})
 
-// export default AppModule{}
+export class AppModule{}
